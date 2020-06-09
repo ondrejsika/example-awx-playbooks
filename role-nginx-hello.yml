@@ -1,0 +1,6 @@
+---
+- name: nginx-hello
+  hosts: all
+
+  roles:
+    - nginx-hello
